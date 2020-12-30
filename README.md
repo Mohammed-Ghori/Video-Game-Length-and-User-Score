@@ -4,6 +4,9 @@ With the increasing prevalence of the live-service model in gaming, it's clear t
 # The Dataset
 This data come from www.gamefaqs.com 's Game Rankings. Users with a GameFAQs account can report the number of hours it took for them to complete a game and also rate it on a scale of 0-5, 5 being the best. The website reports the mean hours to complete and mean user score for each game. In this analysis, we will only look at games that have at least 100 user ratings in order to ensure the robustness of the data. Since we are interested in recent games, we will only include games from the PlayStation 4 console. The data is sorted from highest user rating to lowest user rating. 
 
+# Analysis
+See the Jupyter Notebook above for the complete exploratory analysis and linear regression model fitting.
+
 # Conclusion
 Our regression model found only a very slight positive correlation between the average length of a game and its average user rating (R^2 = 0.11). On the whole, this is not enough justification to arbitrarily increase a game's length, as this is not a significant enough association between the two variables. Based off this analysis, our reccomendation to publishers is to not extend the playtime simply for the sake of doing so. Rather, they should seek to deliver a playtime that is consistent with the creative vision of the game's design team. Avoiding unnecessary game development that stems from extending playtime reduces development time and lowers costs.
 
