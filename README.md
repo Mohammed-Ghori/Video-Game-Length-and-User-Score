@@ -1,4 +1,4 @@
-# Video-Game-Length-and-User-Score
+# Video-Game-Playtime-and-User-Score
 With the increasing prevalence of the live-service model in gaming, it's clear that publishers are attempting to deliver more value to the consumer through extending the amount of hours of play that each title offers. While more hours of play may provide greater value in terms of the price per hour played, recent releases such as Assassin's Creed: Valhalla have been criticized for overstaying their welcome and padding out the game's playtime. This makes us ask: does increasing a game's playtime truly improve the perceived value of the game in the eyes of the consumer? In this analysis, we will explore the relationship between the average length of a video game and its average user rating. Data is from www.gamefaqs.com Game Rankings. The complete dataset is available above.
 
 # The Dataset
